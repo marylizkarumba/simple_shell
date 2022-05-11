@@ -130,5 +130,7 @@ Or run the shell in non-interactive mode: example echo "/bin/ls" | ./hsh
 Run the executable in your terminal after compiling:
 
 $ ./hsh
+
 $ # This is our rendition of the shell
+
 $ ls -al
