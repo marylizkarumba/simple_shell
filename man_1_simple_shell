@@ -1,4 +1,4 @@
-.TH HSH 1 "12 Apr 2020" "V 1.0" "hsh usage manual"
+.TH HSH 1 "17 May 2022" "V 1.0" "hsh usage manual"
 
 .SH NAME
 
@@ -103,15 +103,15 @@ Running commands with arguments:
 .br
 	total 72
 .br
-	-rw-rw-r-- 1 vagrant vagrant   343 Apr 12 01:02 built_in.c
+	-rw-rw-r-- 1 vagrant vagrant   343 May 01:02 built_in.c
 .br
-	-rw-rw-r-- 1 vagrant vagrant   850 Apr 12 01:02 error.c
+	-rw-rw-r-- 1 vagrant vagrant   850 May 17 01:02 error.c
 .br
-	-rw-rw-r-- 1 vagrant vagrant   555 Apr 12 14:27 execute_line.c
+	-rw-rw-r-- 1 vagrant vagrant   555 May 17 14:27 execute_line.c
 .br
-	-rw-rw-r-- 1 vagrant vagrant   305 Apr 10 00:46 _getenv.c
+	-rw-rw-r-- 1 vagrant vagrant   305 May 17 00:46 _getenv.c
 .br
-	-rwxrwxr-x 1 vagrant vagrant 14563 Apr 12 12:57 hsh
+	-rwxrwxr-x 1 vagrant vagrant 14563 May 17 12:57 hsh
 .br
 	($)
 
@@ -140,4 +140,4 @@ Command error example:
 	$
 
 .SH AUTHOR
-Daniela Lopera and Diana Quintero
+Chris Motari and Maryliz Munjiru Karumba
